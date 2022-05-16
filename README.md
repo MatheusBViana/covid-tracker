@@ -1,7 +1,11 @@
 # Covid-19 Status Java App
 A java app to track COVID-19 informations in Brazil and around the world.
 
-!(java-icon)[https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png]
+<!-- ![alt text](https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png) -->
+<div style="display: flex">
+<img src="https://icon-library.com/images/icon-java/icon-java-6.jpg" style="border-radius:50%" width=70>
+<img src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400" width=70>
+</div>
 
 ## Features
 - Informations about how to prevent Covid-19
