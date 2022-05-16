@@ -25,8 +25,8 @@ A java app to track COVID-19 informations in Brazil and around the world.
 ## Some Screenshots
 
 <img src="https://i.imgur.com/A6DPT1U.jpg">
-<img src="https://i.imgur.com/XkUO1vg.jpg">
 <img src="https://i.imgur.com/fBThbws.jpg">
+<img src="https://i.imgur.com/XkUO1vg.jpg">
 <img src="https://i.imgur.com/tKZkJyX.jpg">
 <img src="https://i.imgur.com/VdEScey.jpg">
 
